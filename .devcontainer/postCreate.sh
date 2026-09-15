@@ -1,1 +1,1 @@
-"postCreateCommand": ".devcontainer/postCreate.sh"
+echo "Post-create script executed"
